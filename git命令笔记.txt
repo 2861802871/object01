@@ -12,3 +12,4 @@ git commit -a -m '备注'    把添加的文件提交到git
 git push                确认提交，此时gitee就可以看到更改完的文件了
 
 git pull                把云端的项目同步到本地
+1
